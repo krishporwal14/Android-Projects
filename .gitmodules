@@ -4,3 +4,6 @@
 [submodule "Text-to-Speech"]
 	path = Text-to-Speech
 	url = https://github.com/krishporwal14/Text-to-Speech.git
+[submodule "Bluetooth-Toggle"]
+	path = Bluetooth-Toggle
+	url = https://github.com/krishporwal14/Bluetooth-Toggle.git
