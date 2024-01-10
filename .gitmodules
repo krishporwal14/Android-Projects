@@ -1,3 +1,6 @@
 [submodule "Fragments-in-Android"]
 	path = Fragments-in-Android
 	url = https://github.com/krishporwal14/Fragments-in-Android.git
+[submodule "Text-to-Speech"]
+	path = Text-to-Speech
+	url = https://github.com/krishporwal14/Text-to-Speech.git
