@@ -25,3 +25,6 @@
 [submodule "Image-Capture-using-Android"]
 	path = Image-Capture-using-Android
 	url = https://github.com/krishporwal14/Image-Capture-using-Android.git
+[submodule "Bank-Management-System"]
+	path = Bank-Management-System
+	url = https://github.com/krishporwal14/Bank-Management-System.git
