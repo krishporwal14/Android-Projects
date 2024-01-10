@@ -22,3 +22,6 @@
 [submodule "Send-and-Receive-SMS"]
 	path = Send-and-Receive-SMS
 	url = https://github.com/krishporwal14/Send-and-Receive-SMS.git
+[submodule "Image-Capture-using-Android"]
+	path = Image-Capture-using-Android
+	url = https://github.com/krishporwal14/Image-Capture-using-Android.git
