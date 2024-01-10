@@ -16,3 +16,6 @@
 [submodule "Phone-Call-using-Android"]
 	path = Phone-Call-using-Android
 	url = https://github.com/krishporwal14/Phone-Call-using-Android.git
+[submodule "Student-Management-System"]
+	path = Student-Management-System
+	url = https://github.com/krishporwal14/Student-Management-System.git
