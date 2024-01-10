@@ -13,3 +13,6 @@
 [submodule "Open-Website"]
 	path = Open-Website
 	url = https://github.com/krishporwal14/Open-Website.git
+[submodule "Phone-Call-using-Android"]
+	path = Phone-Call-using-Android
+	url = https://github.com/krishporwal14/Phone-Call-using-Android.git
