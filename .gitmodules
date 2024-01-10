@@ -19,3 +19,6 @@
 [submodule "Student-Management-System"]
 	path = Student-Management-System
 	url = https://github.com/krishporwal14/Student-Management-System.git
+[submodule "Send-and-Receive-SMS"]
+	path = Send-and-Receive-SMS
+	url = https://github.com/krishporwal14/Send-and-Receive-SMS.git
