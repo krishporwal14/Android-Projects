@@ -7,3 +7,6 @@
 [submodule "Bluetooth-Toggle"]
 	path = Bluetooth-Toggle
 	url = https://github.com/krishporwal14/Bluetooth-Toggle.git
+[submodule "Accelerometer-Sensor"]
+	path = Accelerometer-Sensor
+	url = https://github.com/krishporwal14/Accelerometer-Sensor.git
