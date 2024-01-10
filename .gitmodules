@@ -10,3 +10,6 @@
 [submodule "Accelerometer-Sensor"]
 	path = Accelerometer-Sensor
 	url = https://github.com/krishporwal14/Accelerometer-Sensor.git
+[submodule "Open-Website"]
+	path = Open-Website
+	url = https://github.com/krishporwal14/Open-Website.git
