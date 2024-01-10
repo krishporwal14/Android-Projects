@@ -28,3 +28,6 @@
 [submodule "Bank-Management-System"]
 	path = Bank-Management-System
 	url = https://github.com/krishporwal14/Bank-Management-System.git
+[submodule "Send-Email"]
+	path = Send-Email
+	url = https://github.com/krishporwal14/Send-Email.git
